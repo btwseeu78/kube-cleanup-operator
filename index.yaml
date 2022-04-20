@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  kube-cleanup-operator:
+  - apiVersion: v2
+    appVersion: v0.8.1
+    created: "2022-04-20T16:49:38.827022253+05:30"
+    dependencies:
+    - alias: cleanup
+      name: kube-cleanup-operator
+      repository: https://charts.lwolf.org
+      version: 1.0.0
+    description: A Helm chart for Kubernetes
+    digest: 91f7bbdb2ab6cbadd9923c9bbab30b1f7fcdc8ab23b73b30d971141d08350052
+    keywords:
+    - kubernetes
+    - cleanup
+    - operator
+    name: kube-cleanup-operator
+    sources:
+    - https://github.com/lwolf/kube-cleanup-operator.git
+    type: application
+    urls:
+    - https://github.com/btwseeu78/kube-cleanup-operator/releases/download/kube-cleanup-operator-0.1.2/kube-cleanup-operator-0.1.2.tgz
+    version: 0.1.2
+generated: "2022-04-20T16:49:38.827061457+05:30"
