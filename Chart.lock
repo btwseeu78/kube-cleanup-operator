@@ -1,6 +1,0 @@
-dependencies:
-- name: kube-cleanup-operator
-  repository: https://charts.lwolf.org
-  version: 1.0.0
-digest: sha256:0701e70976bbbd1c56d266b8c00225c2f3105e419699208b210e240626ae37ee
-generated: "2022-04-20T16:34:58.105417785+05:30"
